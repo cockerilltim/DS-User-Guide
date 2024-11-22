@@ -2,7 +2,7 @@
 
 ## Password Reset
 
-To **reset your password**, go to [https://accounts.tacc.utexas.edu/forgot_password](https://accounts.tacc.utexas.edu/forgot_password), enter your username or email address that is associated with your user account, and you will receive an email with a password reset link. 
+To **reset your password**, go to [https://accounts.tacc.utexas.edu/forgot_password](https://accounts.tacc.utexas.edu/forgot_password), and then enter your username or email address that is associated with your user account, and you will receive an email with a password reset link. 
 
 ## Account Activation
 
