@@ -4,12 +4,18 @@
 
 Any natural hazards researcher or practitioner that wants an environment to store, analyze, curate, publish, and discover data with a community of peers may register for an account.
 
-1. [**Request a user account**](https://www.designsafe-ci.org/account/register/)
+1. [**Request a user account**](https://www.designsafe-ci.org/account/register/) We highly recommend that you provide the official email address that aligns with your institution/company to expedite access to DesignSafe computation and data resources. Using 3rd party providers such as gmail, hotmail, yahoo mail, etc can result in delays are denial of access. **Please note**: A DesignSafe account is a TACC user account, so you will sometimes see emails from TACC and URLs that take you to the TACC domain `tacc.utexas.edu`.
 2. Follow instructions in the email you receive to complete setting up your account.
-3. You will then be able to [**log in to DesignSafe**](https://www.designsafe-ci.org/).<br />
-    (You will be required to use [multi-factor authentication](https://docs.tacc.utexas.edu/basics/mfa/).)
+3. Once your account is approved, you will then need to set up [multi-factor authentication](https://docs.tacc.utexas.edu/basics/mfa/)
+4. You will then be able to [**log in to DesignSafe**](https://www.designsafe-ci.org/).
+   
+    a. 
+6. **Data Depot and/or Computational Tools Access**
+   
+    a. Following your initial login, an additional step is required
+8.
+9. <br />
 
-**Please note**: A DesignSafe account is a TACC user account, so you will sometimes see emails from TACC and URLs that take you to the TACC domain `tacc.utexas.edu`.
 
 <!-- TODO: Use this when message box is smaller -->
 <!-- https://github.com/TACC/TACC-Docs/issues/54 >
@@ -24,6 +30,8 @@ Any natural hazards researcher or practitioner that wants an environment to stor
 A DesignSafe account is a TACC user account, so you will sometimes see emails from TACC and URLs that take you to the TACC domain `tacc.utexas.edu`.
 ///
 -->
+
+
 
 ## Documentation Overview
 
